@@ -1,0 +1,21 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "led",
+					"strict" : false
+				},
+				{
+					"name" : "sys_clk_50mhz",
+					"strict" : false
+				},
+				{
+					"name" : "sys_rst",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
